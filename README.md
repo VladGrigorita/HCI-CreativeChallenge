@@ -1,5 +1,6 @@
 # HCI-CreativeChallenge
 This repository was made for HCI-CreativeChallenge
+
 Avărvărei Bianca-Florina:
 1. Parking problem: Context of use+Main Audience+Empiric Laws, Metaphors/Idioms+Affordances+Visual variables
 2. ColorBlindnessProblem: Introduction, Personas
